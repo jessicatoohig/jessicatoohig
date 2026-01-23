@@ -1,8 +1,9 @@
-###Hi there 
+#Hi there, my name is jessica Toohig.  
 <!--
 **jessicatoohig/jessicatoohig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: --!>
 
+##About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,15 +13,13 @@ Here are some ideas to get you started: --!>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Hi there, I'm Jessica Toohig
-
 I'm a student at the University of Notre Dame studying [your major].
 
-## About Me
+## Education
 - 🎓 Currently taking Introduction to Data Science
 - 🌱 Learning Python, pandas, and data visualization
 - 📫 How to reach me: [your email]
 
-## Interests
+## Technical Skills
 - [Add a few of your interests or hobbies]
 

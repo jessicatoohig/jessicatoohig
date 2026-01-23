@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Resident Counselor for Univesity of Notre Dame Pre-College programs.
 - Worked as a waitress at Chagrin Valley Athletic Club in Cleveland, Ohio for all four years of high school. 
 
-## Other Involvements 
+## Other Involvements/Leadership 🎯
 - Procter and Gamble Project Leader on the Student International Business Council.
 - Community Engagement Execuetive Chair on the Universitty of Notre Dame Student Union Board (SUB).
 - Howard Hall Dorm Commisioner.

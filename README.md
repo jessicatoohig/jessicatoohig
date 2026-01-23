@@ -1,25 +1,28 @@
-#Hi there, my name is jessica Toohig.  
+# Hi there, my name is Jessica Toohig. 👋 
 <!--
 **jessicatoohig/jessicatoohig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: --!>
+Here are some ideas to get you started: 
+-->
 
-##About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me 🙋‍♀️
+- I’m currently taking Intorduction to Data Science.
+- I’m learning Python, pandas, and data visualization.
+- I’m looking for jobs realted to Data Analytics, Cybersecurity, or Energy/Infrastructure Consulting. 
+- Ask me about Studying Abraod in Dublin, Ireland.
+- How to reach me: jtoohig@nd.edu
+- Fun fact: I am the second oldest out of my three siblings.
 
-I'm a student at the University of Notre Dame studying [your major].
+## Education 🎓
+- I graduated high school from Beaumont School, in Cleveland, Ohio. 
+- I am currently a sophomore at the University of Notre Dame studying Business Analytics, with minors in Data Science and Energy Studies.
 
-## Education
-- 🎓 Currently taking Introduction to Data Science
-- 🌱 Learning Python, pandas, and data visualization
-- 📫 How to reach me: [your email]
+## Work 🏫
+- Research Assistant in the Mendoza Colle of Business at the University of Notre Dame, primarily focused on social psychology.
+- Resident Counselor for Univesity of Notre Dame Pre-College programs.
 
-## Technical Skills
-- [Add a few of your interests or hobbies]
+## Technical Skills 📊
+- Microsoft Exel
+- Microsoft Powerpoint
+- Power BI
+- Python
 

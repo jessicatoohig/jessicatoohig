@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Technical Skills 📊
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d931764d-a4bd-4cf5-a48c-10cd7c9965c0" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8f7fcea8-0b52-48fa-adc8-cf83e946ce96" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/36a07b4c-ba58-4088-ac80-8574fc117d29" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/133e52d5-394c-4943-8a38-c8518442dafc" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8088b452-4761-4d20-abbc-866f07b9fefc" />
 
 

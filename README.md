@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 🙋‍♀️
-- I’m currently taking Intorduction to Data Science
+- I’m currently taking Introduction to Data Science
 - I’m learning Python, pandas, and data visualization
 - I’m looking for jobs related to Data Analytics, Cybersecurity, or Energy/Infrastructure Consulting 
 - Ask me about Studying Abroad in Dublin, Ireland
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Work 🏫
 - Research Assistant in the Mendoza College of Business at the University of Notre Dame, primarily focused on social psychology
-- Resident Counselor for Univesity of Notre Dame Pre-College Programs
+- Resident Counselor for University of Notre Dame Pre-College Programs
 - Worked as a waitress at Chagrin Valley Athletic Club in Cleveland, Ohio for all four years of high school
 
 ## Technical Skills 📊
@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 
 ## Other Involvements/Leadership 🎯
 - Procter and Gamble Project Leader on the Student International Business Council
-- Community Engagement Execuetive Chair on the University of Notre Dame Student Union Board (SUB)
-- Howard Hall Dorm Commisioner
+- Community Engagement Executive Chair on the University of Notre Dame Student Union Board (SUB)
+- Howard Hall Dorm Commissioner
 
 ## Resources 🔗
-- Data Sciene Portfolio: [Data Science Portfolio](https://github.com/jessicatoohig/Toohig-Data-Science-Portfolio/blob/main/README.md) 
+- Data Science Portfolio: [Data Science Portfolio](https://github.com/jessicatoohig/Toohig-Data-Science-Portfolio/blob/main/README.md) 
 - How to reach me: jtoohig@nd.edu
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jessica-toohig-a090a2350/)
 

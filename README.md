@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 ## About Me 🙋‍♀️
 - I’m currently taking Introduction to Data Science
-- I’m learning Python, pandas, and data visualization
+- I’m learning Python, pandas, and data visualization, and hope to complete more projects in these areas
 - I’m looking for jobs related to Data Analytics, Cybersecurity, or Energy/Infrastructure Consulting 
 - Ask me about Studying Abroad in Dublin, Ireland
 - Fun fact: I am the second oldest out of three siblings
